@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+venv/
+rabbitmq_venv/
+.idea/
+.vscode/
+*.swp
