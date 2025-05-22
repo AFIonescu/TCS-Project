@@ -1,19 +1,22 @@
-# Arduino build artifacts\*.hex
+# Arduino build artifacts
+*.hex
 *.elf
 *.map
 *.bin
-.build_*# PlatformIO build output (if used)
+
+# PlatformIO output
 .pioenvs/
-# Arduino IDE temporary files
-*.tmp
-*.bak
-# VSCode or other editor settings
+
+# Editor settings
 .vscode/
 *.code-workspace
+
 # OS files
 .DS_Store
 Thumbs.db
-# Serial monitor logs
+
+# Logs
 *.log
+
 # Backup sketches
 *_backup.ino
