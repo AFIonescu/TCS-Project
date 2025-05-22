@@ -108,7 +108,7 @@ TCS-Project/
 
 ## 📜 License
 
-This project is released under the **MIT License**. See [LICENSE](./MIT%20license/LICENSE.txt) for details.
+This project is released under the **MIT License**. See [LICENSE.txt](./LICENSE.txt) for details.
 
 ---
 
